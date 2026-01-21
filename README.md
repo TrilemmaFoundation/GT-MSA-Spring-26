@@ -1,4 +1,4 @@
-# Georgia Tech MSA Spring 2026 Capstone  
+# Georgia Tech MSA Spring 2026 Practicum  
 Trilemma Foundation Practicum
 
 Welcome to the official practicum hub for Georgia Tech MSA Spring 2026. This repository centralizes the core materials, expectations, and weekly cadence for two parallel tracks.
