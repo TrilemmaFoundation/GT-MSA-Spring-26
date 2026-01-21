@@ -12,7 +12,7 @@ This practicum runs as two projects that share the same workflow and cadence.
 
 You will work in team repositories and use this hub repo for shared resources, updates, and announcements.
 
-## Core Slides
+## Project Slides
 
 1. [Project Pitch Slides](https://docs.google.com/presentation/d/1HjsZSn_rttGWQC43R-iL6n2gyintMeMyh7Ro3bgLip8/edit?usp=sharing) (November 5, 2025)  
 2. [Project Launch Slides](https://docs.google.com/presentation/d/1QDT2saQfBgNCqmFq0F-6a4T8SygSbANHsi2dXD4BZ6Y/edit?usp=sharing) (January 14, 2026)  
