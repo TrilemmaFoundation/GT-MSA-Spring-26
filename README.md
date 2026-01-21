@@ -20,6 +20,8 @@ You will work in team repositories and use this hub repo for shared resources, u
 
 ## Project Repositories
 
+Fork one of the following repos (depending on your project selection):
+
 - [Bitcoin Analytics Template repo](https://github.com/TrilemmaFoundation/bitcoin-analytics-capstone-template)  
 - [Soccer Analytics (both tracks) Template repo](https://github.com/TrilemmaFoundation/soccer-analytics-capstone-template)  
 
