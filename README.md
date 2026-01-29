@@ -53,24 +53,24 @@ Team repositories will be listed here once teams are finalized and repos are cre
 
 All times are Eastern Time.
 
-| Date | Meeting | Description |
-| --- | --- | --- |
-| Jan 14, 2026 (1 PM) | Project launch | Onboarding, workflow and expectations, project overview |
-| Jan 21, 2026 (2 PM) | Office hour | Onboarding QnA, access to resources |
-| Jan 28, 2026 (2 PM) | Office hour | TBD |
-| Feb 4, 2026 (2 PM) | Office hour | TBD |
-| Feb 11, 2026 (2 PM) | Office hour | TBD |
-| Feb 18, 2026 (2 PM) | Office hour | TBD |
-| Feb 25, 2026 (2 PM) | Office hour | TBD |
-| Mar 4, 2026 (2 PM) | Office hour | TBD |
-| Mar 11, 2026 (2 PM) | Office hour | TBD |
-| Mar 18, 2026 (2 PM) | Office hour | TBD |
-| Mar 25, 2026 (2 PM) | Office hour | TBD |
-| Apr 1, 2026 (2 PM) | Office hour | TBD |
-| Apr 8, 2026 (2 PM) | Office hour | TBD |
-| Apr 15, 2026 (2 PM) | Office hour | TBD |
-| Apr 22, 2026 (2 PM) | Office hour | TBD |
-| Apr 29, 2026 (2 PM) | Office hour | TBD |
+| Date | Meeting | Description | Video Recording |
+| :--- | :--- | :--- | :--- |
+| Jan 14, 2026 (1 PM) | Project launch | Onboarding, workflow and expectations, project overview | |
+| Jan 21, 2026 (2 PM) | Office hour 1 | Onboarding Q&A, access to resources | [Watch Recording](https://youtu.be/C_Kt-xhfWbY) |
+| Jan 28, 2026 (2 PM) | Office hour 2 | Project QnA, access to resources | [Watch Recording](https://youtu.be/PhWCrVeCgOo) |
+| Feb 4, 2026 (2 PM) | Office hour | TBD | |
+| Feb 11, 2026 (2 PM) | Office hour | TBD | |
+| Feb 18, 2026 (2 PM) | Office hour | TBD | |
+| Feb 25, 2026 (2 PM) | Office hour | TBD | |
+| Mar 4, 2026 (2 PM) | Office hour | TBD | |
+| Mar 11, 2026 (2 PM) | Office hour | TBD | |
+| Mar 18, 2026 (2 PM) | Office hour | TBD | |
+| Mar 25, 2026 (2 PM) | Office hour | TBD | |
+| Apr 1, 2026 (2 PM) | Office hour | TBD | |
+| Apr 8, 2026 (2 PM) | Office hour | TBD | |
+| Apr 15, 2026 (2 PM) | Office hour | TBD | |
+| Apr 22, 2026 (2 PM) | Office hour | TBD | |
+| Apr 29, 2026 (2 PM) | Office hour | TBD | |
 
 ## Notes
 
