@@ -29,8 +29,9 @@ Fork one of the following repos (depending on your project selection):
 
 ### Work cadence
 1. Weekly office hour participation is expected (sending questions in advance or attending meetings) 
-2. Weekly progress should be visible in your team repository  
-3. If nothing is pushed, we assume no work is being done
+2. Weekly progress should be visible in your team repository (all work should be committed and pushed your repo, not the templates)
+3. If nothing is pushed to your fork, we assume no work is being done
+4. If you find a bug or want to improve the templates directly, feel free to create a PR in the template repo (this is not mandatory)
 
 ### Collaboration norms
 1. Share intermediate work early, including partial work, and drafts  
