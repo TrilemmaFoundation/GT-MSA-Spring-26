@@ -20,7 +20,7 @@ You will work in team repositories and use this hub repo for shared resources, u
 
 ## Project Repositories
 
-Fork one of the following repos (depending on your project selection):
+We have simplified the GitHub workflow from previous capstones by creating template repos (we will not be assigning private repos to teams). Fork one of the following repos (depending on your project selection) and commit all work to this fork:
 
 - [Bitcoin Analytics Template repo](https://github.com/TrilemmaFoundation/bitcoin-analytics-capstone-template)  
 - [Soccer Analytics (both tracks) Template repo](https://github.com/TrilemmaFoundation/soccer-analytics-capstone-template)  
