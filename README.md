@@ -65,8 +65,8 @@ All times are Eastern Time.
 | Feb 25, 2026 (2 PM) | Office hour 6 | `EDA Midterm Deliverable Due!` | [Watch Recording](https://youtu.be/0-avThlsjDA) |
 | Mar 4, 2026 (2 PM) | Office hour 7 | Project progress open discussion | [Watch Recording](https://youtu.be/Aw6iPVd9PNs) |
 | Mar 11, 2026 (2 PM) | Office hour 8 | Short office hour | [Watch Recording](https://youtu.be/Xln2-n0uKRU) |
-| Mar 18, 2026 (2 PM) | Office hour | Final deliverable outline release & overview | [Watch Recording](https://youtu.be/uBPkVJMFa6w) |
-| Mar 25, 2026 (2 PM) | Office hour | General QnA | [Watch Recording](https://youtu.be/lcui_I5PS6I?si=208BF6Kwon_nx_9p) |
+| Mar 18, 2026 (2 PM) | Office hour 9 | Final deliverable outline release & overview | [Watch Recording](https://youtu.be/uBPkVJMFa6w) |
+| Mar 25, 2026 (2 PM) | Office hour 10 | General QnA | [Watch Recording](https://youtu.be/lcui_I5PS6I?si=208BF6Kwon_nx_9p) |
 | Apr 1, 2026 (2 PM) | Office hour | TBD | |
 | Apr 8, 2026 (2 PM) | Office hour | TBD | |
 | Apr 15, 2026 (2 PM) | Office hour | TBD | |
