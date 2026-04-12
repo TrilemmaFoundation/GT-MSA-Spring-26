@@ -67,7 +67,7 @@ All times are Eastern Time.
 | Mar 11, 2026 (2 PM) | Office hour 8 | Short office hour | [Watch Recording](https://youtu.be/Xln2-n0uKRU) |
 | Mar 18, 2026 (2 PM) | Office hour 9 | Final deliverable outline release & overview | [Watch Recording](https://youtu.be/uBPkVJMFa6w) |
 | Mar 25, 2026 (2 PM) | Office hour 10 | General QnA | [Watch Recording](https://youtu.be/lcui_I5PS6I?si=208BF6Kwon_nx_9p) |
-| Apr 1, 2026 (2 PM) | Office hour | TBD | |
+| Apr 1, 2026 (2 PM) | Office hour 11 | General QnA | [Watch Recording](https://youtu.be/GxvjIwKnONs) |
 | Apr 8, 2026 (2 PM) | Office hour | TBD | |
 | Apr 15, 2026 (2 PM) | Office hour | TBD | |
 | Apr 22, 2026 (2 PM) | Office hour | TBD | |
